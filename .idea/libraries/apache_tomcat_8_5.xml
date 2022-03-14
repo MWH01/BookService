@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="apache-tomcat-8.5">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-8.5.73" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-8.5.73/out/artifacts/apache_tomcat_8_5_73_war_exploded/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-8.5.73/out/artifacts/apache_tomcat_8_5_73_war_exploded/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-8.5.73/out/artifacts/apache_tomcat_8_5_73_war_exploded/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-8.5.73/out/artifacts/apache_tomcat_8_5_73_war_exploded/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-8.5.73/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-8.5.73/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-8.5.73/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-8.5.73/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-8.5.73/work/Catalina/localhost/20201120511" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-8.5.73/work/Catalina/localhost/ROOT" />
+      <root url="file://$PROJECT_DIR$/../apache-tomcat-8.5.73/work/Catalina/localhost/examples" />
+    </SOURCES>
+  </library>
+</component>
